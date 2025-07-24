@@ -54,10 +54,10 @@
    
 
    </br></br>
-	<section id="loan">
-		</br></br></br>
+	<section id="loan" style='height:75vh'>
+		
 	
-        <div class="container">
+        <div class="container" style='padding-top:10%'>
             <div class="row">
                 <div class="col-sm-6 wow fadeInRight">
 					<img src="images/1.png" class="img-responsive" />
@@ -468,10 +468,10 @@
 					<div class="text-center">
 						<a href="#home" class="scrollup" style="color:#c92800;"><i class="fa fa-angle-up fa-3x"></i></a>
 					</div>
-                    &copy; Company Name. All Rights Reserved.
+                    &copy; Subhojit Das. All Rights Reserved.
                     <div class="credits">
                        
-                        <a href="#">Company Calculator</a> by <a href="#">CompanyMade</a>
+                        <a href="#">Interest Calculator</a> by <a href="https://github.com/subhojitd0" target='_blank'>Subhojit Das</a>
                     </div>
                 </div>
 				
